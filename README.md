@@ -5,6 +5,8 @@ house price prediction using Boston Housing Data
 # Usage
 (install virtualenv with python3)
 ```
+git clone https://github.com/jk7g14/House-Price-Prediction.git
+cd House-Price-Prediction
 pip install -r requirement.txt
 ipython kernel install --user --name=projectname
 jupyter-notebook

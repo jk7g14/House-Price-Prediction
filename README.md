@@ -2,19 +2,23 @@
 house price prediction using Boston Housing Data
 
 
-
+# Usage
 (install virtualenv with python3)
-
-
 ```
 pip install -r requirement.txt
 ipython kernel install --user --name=projectname
 jupyter-notebook
 ```
+(after you enter the jupyter-notebook change the kernel to your projectname)
 
-# Order
+# RUN Order
 house-price-prediction-part1.ipynb
 house-price-prediction-part2.ipynb
+
+#Documents
+house-price-prediction-part1.pdf
+house-price-prediction-part2.pdf
+
 
 # nbviewer links
 https://nbviewer.jupyter.org/github/jk7g14/House-Price-Prediction/blob/master/house-price-prediction-part1.ipynb

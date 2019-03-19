@@ -18,11 +18,13 @@ jupyter-notebook
 # RUN Order
 
 house-price-prediction-part1.ipynb
+
 house-price-prediction-part2.ipynb
 
 # Documents
 
 house-price-prediction-part1.pdf
+
 house-price-prediction-part2.pdf
 
 

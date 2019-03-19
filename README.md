@@ -15,7 +15,7 @@ jupyter-notebook
 house-price-prediction-part1.ipynb
 house-price-prediction-part2.ipynb
 
-#Documents
+# Documents
 house-price-prediction-part1.pdf
 house-price-prediction-part2.pdf
 

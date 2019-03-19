@@ -1,8 +1,10 @@
 # House-Price-Prediction
+
 house price prediction using Boston Housing Data
 
 
 # Usage
+
 (install virtualenv with python3)
 ```
 git clone https://github.com/jk7g14/House-Price-Prediction.git
@@ -14,21 +16,25 @@ jupyter-notebook
 (after you enter the jupyter-notebook change the kernel to your projectname)
 
 # RUN Order
+
 house-price-prediction-part1.ipynb
 house-price-prediction-part2.ipynb
 
 # Documents
+
 house-price-prediction-part1.pdf
 house-price-prediction-part2.pdf
 
 
 # nbviewer links
+
 https://nbviewer.jupyter.org/github/jk7g14/House-Price-Prediction/blob/master/house-price-prediction-part1.ipynb
 
 https://nbviewer.jupyter.org/github/jk7g14/House-Price-Prediction/blob/master/house-price-prediction-part2.ipynb
 
 
 # References
+
 https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard
 
 https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python
